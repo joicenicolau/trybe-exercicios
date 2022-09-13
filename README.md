@@ -11,13 +11,13 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 ##### Bloco 1: Introdução - Unix & Bash 
 
 - [X] 1-3: _Unix & Bash- Part 1_
-- [:white_check_mark:] 1-4: _Unix & Bash- Part 2_
+- [X] 1-4: _Unix & Bash- Part 2_
 
 ##### Bloco 2: Git, GitHub & Internet
 
-- [:white_check_mark:] 2-1: _O que é e para que serve?_
-- [:white_check_mark:] 2-2: _Entendendo os comandos_
-- [:white_check_mark:] 2-3: _Internet - Entendendo como ela funciona_
+- [X] 2-1: _O que é e para que serve?_
+- [X] 2-2: _Entendendo os comandos_
+- [X] 2-3: _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: Introdução à HTML e CSS
 
