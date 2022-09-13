@@ -10,7 +10,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ##### Bloco 1: Introdução - Unix & Bash 
 
-- [:white_check_mark:] 1-3: _Unix & Bash- Part 1_
+- [X] 1-3: _Unix & Bash- Part 1_
 - [:white_check_mark:] 1-4: _Unix & Bash- Part 2_
 
 ##### Bloco 2: Git, GitHub & Internet
