@@ -1,10 +1,10 @@
-#### Dia 1 - Exercícios
+## Dia 1 - Exercícios
 
 O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre UNIX e Bash.
 
 ### Parte I - Criação de arquivos e diretórios
 
-Dica: Para criação de arquivos vazios você pode utilizar o comando touch nome-do-arquivo.extensao.
+**Dica:** Para criação de arquivos vazios você pode utilizar o comando touch nome-do-arquivo.extensao.
 
 1. Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu, crie um diretório chamado unix_tests e navegue até ele.
 
@@ -32,22 +32,31 @@ Dica: Para criação de arquivos vazios você pode utilizar o comando touch nome
 
 13. Limpe o terminal.
 
-Para os exercícios 14 e 15, crie, de forma manual na parte gráfica do seu sistema operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado skills.txt:
+#### Para os exercícios 14 e 15, crie, de forma manual na parte gráfica do seu sistema operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado skills.txt:
 
 Internet
+
 Unix
+
 Bash
+
 HTML
+
 CSS
+
 JavaScript
+
 React
+
 SQL
+
 
 14. Mostre na tela as 5 primeiras skills do arquivo skills.txt.
 
 15. Mostre na tela as 4 últimas skills do arquivo skills.txt.
 
 16. Apague todos os arquivos que terminem em .txt.
+
 
 ### Parte II - Manipulação & Busca
 
