@@ -15,7 +15,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ##### Bloco 2: Git, GitHub & Internet
 
-- [ ] 2-1: _O que é e para que serve?_
+- [ :white_check_mark: ] 2-1: _O que é e para que serve?_
 - [ ] 2-2: _Entendendo os comandos_
 - [ ] 2-3: _Internet - Entendendo como ela funciona_
 
