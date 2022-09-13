@@ -15,9 +15,9 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ##### Bloco 2: Git, GitHub & Internet
 
-- [ :white_check_mark: ] 2-1: _O que é e para que serve?_
-- [ ] 2-2: _Entendendo os comandos_
-- [ ] 2-3: _Internet - Entendendo como ela funciona_
+- [:white_check_mark:] 2-1: _O que é e para que serve?_
+- [:white_check_mark:] 2-2: _Entendendo os comandos_
+- [:white_check_mark:] 2-3: _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: Introdução à HTML e CSS
 
@@ -27,3 +27,14 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [ ] 3.3 _HTML & CSS - Seletores e posicionamento_
 - [ ] 3.4 _HTML Semântico_
 - [ ] 3.5 _Projeto - Lessons Learned_ 
+
+##### Bloco 4: Introdução à JavaScript e Lógica de Programação
+
+- [ ] 4.1 _Introdução - JavaScript_
+- [ ] 4.1 _Primeiros passos_
+- [ ] 4.2 _JavaScript - Array e loop For_
+- [ ] 4.3 _JavaScript - Lógica de Programação e Algoritmos_
+- [ ] 4.4 _JavaScript - Objeto e funções_
+- [ ] 4.5 _Projeto - Playgroun Functions_
+
+
