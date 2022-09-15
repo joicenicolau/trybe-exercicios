@@ -39,15 +39,15 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 
-- [ ] 5-1 _JavaScript - DOM e seletores
-- [ ] 5-2 _JavaScript - Trabalhando com elementos
-- [ ] 5-3 _JavaScript - Eventos
-- [ ] 5-4 _JavaScript - Web Storage
-- [ ] 5-5 _Fundamentos - JavaScript - Projetos 
-- [ ] 5-5 _Projeto - Arte com Pixels
-- [ ] 5-6 _(Bônus) - Projeto - Lista de tarefas
-- [ ] 5-7 _(Bônus) - Projeto - Meme Generator
-- [ ] 5-7 _(Bônus) - Projeto - Adivinhe a Cor 
-- [ ] 5-7 _(Bônus) - Projeto - Carta Misteriosa
+- [ ] 5-1 _JavaScript - DOM e seletores_
+- [ ] 5-2 _JavaScript - Trabalhando com elementos_
+- [ ] 5-3 _JavaScript - Eventos_
+- [ ] 5-4 _JavaScript - Web Storage_
+- [ ] 5-5 _Fundamentos - JavaScript - Projetos_ 
+- [ ] 5-5 _Projeto - Arte com Pixels_
+- [ ] 5-6 _(Bônus) - Projeto - Lista de tarefas_
+- [ ] 5-7 _(Bônus) - Projeto - Meme Generator_
+- [ ] 5-7 _(Bônus) - Projeto - Adivinhe a Cor_ 
+- [ ] 5-7 _(Bônus) - Projeto - Carta Misteriosa_
 
 
