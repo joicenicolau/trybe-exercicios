@@ -21,7 +21,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ##### Bloco 3: Introdução à HTML e CSS
 
-- [ ] 3-1 _Introdução - HTML & CSS_
+- [X] 3-1 _Introdução - HTML & CSS_
 - [ ] 3-1 _HTML & CSS - Estrutura de página_
 - [ ] 3-2 _HTML & CSS - Primeiros passos em CSS_
 - [ ] 3.3 _HTML & CSS - Seletores e posicionamento_
