@@ -139,7 +139,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [ ] 19-1: _Utilizando Containers - Docker_
 - [ ] 19-2: _Manipulando Imagens no Docker_
 - [ ] 19-3: _Orquestrando Containers com Docker Compose_
-- [ ] 19-4v _Projeto - Docker Todo-List_
+- [ ] 19-4: _Projeto - Docker Todo-List_
 
 ##### Bloco 20: Introdução à SQL
 - [ ] 20-1: _Introdução - Bancos de dados relacionais_
@@ -157,7 +157,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 #### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
-- [ ] 22-1: _ Intro -Node.js_
+- [ ] 22-1: _Intro -Node.js_
 - [ ] 22-1: _Node.js: Runtime Assíncrono_
 - [ ] 22-2: _Node.js: API REST com Express_ 
 - [ ] 22-3: _Node.js: Testes de Integração_
