@@ -24,9 +24,9 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 3-1 _Introdução - HTML & CSS_
 - [X] 3-1 _HTML & CSS - Estrutura de página_
 - [X] 3-2 _HTML & CSS - Primeiros passos em CSS_
-- [ ] 3.3 _HTML & CSS - Seletores e posicionamento_
-- [ ] 3.4 _HTML Semântico_
-- [ ] 3.5 _Projeto - Lessons Learned_ 
+- [ ] 3-3 _HTML & CSS - Seletores e posicionamento_
+- [ ] 3-4 _HTML Semântico_
+- [ ] 3-5 _Projeto - Lessons Learned_ 
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
@@ -108,9 +108,9 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ##### Bloco 14: Testes automatizados com React Testing Library
 - [ ] 14-1 _RTL - Primeiros passos_ 
-- [ ] 14_2 _RTL - Mocks e Inputs_ 
-- [ ] 14_3 _RTL - Testando React Router_
-- [ ] 14_4 _Projeto - Testes em React_
+- [ ] 14-2 _RTL - Mocks e Inputs_ 
+- [ ] 14-3 _RTL - Testando React Router_
+- [ ] 14-4 _Projeto - Testes em React_
  
 ##### Bloco 15: Gerenciamento de estado com Redux
 - [ ] 15-1 _Introdução ao Redux - O estado global da aplicação_ 
