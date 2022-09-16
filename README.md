@@ -90,7 +90,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [ ] 10-1 _Introdução - React_
 - [ ] 10-1 _'Hello, world!' no React!_
 - [ ] 10-2 _Componentes React_
-- [ ] 10-3 _ Projeto - Sistema Solar_  
+- [ ] 10-3 _Projeto - Sistema Solar_  
  
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 - [ ] 11-1 _Componentes com estado e eventos_
@@ -110,7 +110,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [ ] 14-1 _RTL - Primeiros passos_ 
 - [ ] 14_2 _RTL - Mocks e Inputs_ 
 - [ ] 14_3 _RTL - Testando React Router_
-- [ ] 14_4 _Projeto - Testes em React
+- [ ] 14_4 _Projeto - Testes em React_
  
 ##### Bloco 15: Gerenciamento de estado com Redux
 - [ ] 15-1 _Introdução ao Redux - O estado global da aplicação_ 
