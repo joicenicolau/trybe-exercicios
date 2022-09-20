@@ -25,7 +25,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 3-1: _HTML & CSS - Estrutura de página_
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [X] 3-3: _HTML & CSS - Seletores e posicionamento_
-- [ ] 3-4: _HTML Semântico_
+- [X] 3-4: _HTML Semântico_
 - [ ] 3-5: _Projeto - Lessons Learned_ 
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
