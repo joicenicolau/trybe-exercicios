@@ -8,6 +8,7 @@ let info = {
 
   console.log('Bem-vinda, ' + info.personagem);
 
+
   /* Exercício 2 */
 
   let info2 = {
@@ -18,6 +19,7 @@ let info = {
   }
 
   console.log(info2['recorrente']);
+
 
   /* Exercício 3 */
 
@@ -32,6 +34,7 @@ let info = {
         console.log(key);
     }
  
+
     /* Exercício 4 */
 
     let info4 = {
@@ -46,4 +49,25 @@ let info = {
     }
 
 
-  
+    /* Exercício 5 */
+
+    let info5 = {
+        personagem: 'Tio Patinhas',
+        origem: 'Christmas on Bear Mountain, Dells Four Color Comics #178', 
+        nota: 'O último MacPatinhas',
+        recorrente: 'Sim'
+    }
+
+    console.log(info.personagem + ' e ' + info5.personagem);
+    console.log(info.origem + ' e ' + info5.origem);
+    console.log(info.nota + ' e ' + info5.nota);
+
+    for (let key in info2) {
+        if (key === 'recorrente' && info2[key] == 'Sim' && info5[key] == 'Sim') {
+            console.log('Ambos recorrentes');
+            }
+    } 
+           
+    
+    
+    
