@@ -32,5 +32,18 @@ let info = {
         console.log(key);
     }
  
+    /* Exercício 4 */
+
+    let info4 = {
+        personagem: 'Margarida',
+        origem: 'Pato Donald',
+        nota: 'Namorada do personagem principal nos quadrinhos do Pato Donald',
+        recorrente: 'Sim'
+    }
+
+    for (let key in info4) {
+        console.log(info4[key]);
+    }
+
 
   
