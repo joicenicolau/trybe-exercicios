@@ -112,5 +112,5 @@ let leitor2 = {
 
 /* Exercício 3 */
 
-console.log(leitor2.nome + ' '+ 'tem' + ' ' + livrosFavoritos.length + ' ' + 'livros favoritos');
+console.log(leitor2.nome + ' '+ 'tem' + ' ' + leitor2.livrosFavoritos.length + ' ' + 'livros favoritos');
 
