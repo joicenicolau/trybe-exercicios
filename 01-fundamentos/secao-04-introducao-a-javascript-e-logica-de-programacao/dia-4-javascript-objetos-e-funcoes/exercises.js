@@ -121,8 +121,3 @@ for (let index = 0; index < livrosFavoritos.length; index++) {
 
 console.log(leitor2.nome + ' '+ 'tem' + ' ' + livrosFavoritos.length + ' ' + 'livros favoritos');
 
-
-
-    
-    
-    
