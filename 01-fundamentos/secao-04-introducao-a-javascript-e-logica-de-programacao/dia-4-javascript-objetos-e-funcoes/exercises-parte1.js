@@ -86,7 +86,7 @@ let leitor = {
     ],
   };
 
-  console.log('O livro favorito de ' + leitor.nome + ' ' + leitor.sobrenome + ' se chama ' + leitor.livrosFavoritos.titulo);
+  console.log('O livro favorito de ' + leitor.nome + ' ' + leitor.sobrenome + ' se chama ' + leitor.livrosFavoritos[0].titulo);
 
 /* Exercício 2 */
 
@@ -110,14 +110,6 @@ let leitor2 = {
 
 /* Exercício 3 */
 
-let livrosFavoritos = ['O Pior Dia de Todos', 'Harry Potter e o Prisioneiro de Azkaban'];
 
-let quantidade = 0;
-
-for (let index = 0; index < livrosFavoritos.length; index++) {
-    if (livrosFavoritos[index] === 'O Pior Dia de Todos') quantidade++;
-    
-}
-
-console.log(leitor2.nome + ' '+ 'tem' + ' ' + livrosFavoritos.length + ' ' + 'livros favoritos');
+console.log(leitor2.nome + ' '+ 'tem' + ' ' + leitor2.livrosFavoritos.length + ' ' + 'livros favoritos');
 
