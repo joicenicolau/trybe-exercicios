@@ -24,15 +24,15 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] Dia 1: _HTML & CSS - Estruturas de página_
 - [X] Dia 2: _HTML & CSS - Primeiros passos em CSS_
 - [X] Dia 3: _HTML & CSS - Seletores e posicionamento_
-- [X] Dia 4: _HTML Semântico_
+- [ ] Dia 4: _HTML Semântico_
 - [X] Dia 5: _Projeto - Lessons Learned_ 
 
 ##### Seção 4: Introdução à JavaScript e Lógica de Programação
 
-- [X] Dia 1: _JavaScript - Primeiros passos_
+- [ ] Dia 1: _JavaScript - Primeiros passos_
 - [ ] Dia 2: _JavaScript - Array e loop For_
 - [ ] Dia 3: _JavaScript - Lógica de Programação e Algoritmos_
-- [ ] Dia 4: _JavaScript - Objeto e funções_
+- [X] Dia 4: _JavaScript - Objeto e funções_
 - [ ] Dia 5: _Projeto - Playgroun Functions_
 
 ##### Seção 5: JavaScript: DOM, Eventos e Web Storage
