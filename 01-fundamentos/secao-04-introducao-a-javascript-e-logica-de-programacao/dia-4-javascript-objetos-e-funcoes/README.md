@@ -85,4 +85,4 @@ let leitor = {
 }
 ```
 
-3. Acesse as chaves nome e livrosFavoritos e faça um console.log no seguinte formato: “Julia tem <quantidade> livros favoritos”, onde “<quantidade>” é um número gerado automaticamente pelo seu código.
+3. Acesse as chaves ```nome``` e ```livrosFavoritos``` e faça um ```console.log``` no seguinte formato: “Julia tem ```<quantidade>``` livros favoritos”, onde ```“<quantidade>”``` é um número gerado automaticamente pelo seu código.
