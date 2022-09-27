@@ -104,9 +104,22 @@ let leitor2 = {
         titulo: 'Harry Potter e o Prisioneiro de Azkaban',
         autor: 'JK Rowling',
         editora: 'Rocco',
-      }
+      },
     ],
   };
+
+/* Exercício 3 */
+
+let livrosFavoritos = ['O Pior Dia de Todos', 'Harry Potter e o Prisioneiro de Azkaban'];
+
+let quantidade = 0;
+
+for (let index = 0; index < livrosFavoritos.length; index++) {
+    if (livrosFavoritos[index] === 'O Pior Dia de Todos') quantidade++;
+    
+}
+
+console.log(leitor2.nome + ' '+ 'tem' + ' ' + livrosFavoritos.length + ' ' + 'livros favoritos');
 
 
 
