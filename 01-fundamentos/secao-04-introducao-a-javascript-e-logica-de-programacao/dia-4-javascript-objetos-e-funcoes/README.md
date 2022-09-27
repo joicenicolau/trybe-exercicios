@@ -49,6 +49,26 @@ Pato Donald e Christmas on Bear Mountain, Dell's Four Color Comics #178
 Namorada do personagem principal nos quadrinhos do Pato Donald e O último MacPatinhas
 Ambos recorrentes // Atenção para essa última linha!
 ´´´
+## Exercícios - Leitura de Objetos
+
+Usando o objeto abaixo, faça os exercícios a seguir:
+
+´´´
+let leitor = {
+  nome: 'Julia',
+  sobrenome: 'Pessoa',
+  idade: 21,
+  livrosFavoritos: [
+    {
+      titulo: 'O Pior Dia de Todos',
+      autor: 'Daniela Kopsch',
+      editora: 'Tordesilhas',
+    },
+  ],
+};
+´´´
+
+1. Acesse as chaves ´´´nome´´´, ´´´sobrenome´´´ e ´´´titulo´´´, que está dentro da chave ´´´livrosFavoritos´´´, e faça um ´´´console.log´´´ no seguinte formato: “O livro favorito de Julia Pessoa se chama ‘O Pior Dia de Todos’”.
 
 
 

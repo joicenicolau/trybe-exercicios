@@ -1,3 +1,4 @@
+/* Exercícios - objetos e for/in */
 /* Exercício 1 */
 
 let info = {
@@ -67,7 +68,30 @@ let info = {
             console.log('Ambos recorrentes');
             }
     } 
-           
+      
+
+/* Exercícios - Leitura de objetos */
+/* Exercício 1 */
+
+let leitor = {
+    nome: 'Julia',
+    sobrenome: 'Pessoa',
+    idade: 21,
+    livrosFavoritos: [
+      {
+        titulo: 'O Pior Dia de Todos',
+        autor: 'Daniela Kopsch',
+        editora: 'Tordesilhas',
+      },
+    ],
+  };
+
+  console.log('O livro favorito de ' + leitor.nome + ' ' + leitor.sobrenome + ' se chama ' + leitor.livrosFavoritos.titulo);
+
+
+
+
+
     
     
     
