@@ -56,9 +56,29 @@
       6. Crie e execute uma função que exiba o conteúdo de todas as tags <p> no console.
       */
 
-      // Exercicio 1
+    // Exercicio 1
+    function changeText() {
+        let p =  document.getElementsByTagName('p')[0].innerText = 'Inserida no mercado de trabalho no ramo de tecnologia!';
+    }
+      
+    changeText();
 
-      document.getElementsByTagName('p')[0].innerText = 'Inserida no mercado de trabalho no ramo de tecnologia!';
+    // Exercício 2
+    function changeColorYellowToGreen() {
+        let color = document.getElementsByClassName('main-content')[0];
+        color.style.background = 'rgb(76,164,109)';
+    }
+
+    changeColorYellowToGreen();
+
+    //Exercícios 3
+    function changeColorRedToWhite() {
+        let color = document.getElementsByClassName('center-content')[0];
+        color.style.background = 'white';
+    }
+
+    changeColorRedToWhite();
+
     </script>
   </body>
 </html>
