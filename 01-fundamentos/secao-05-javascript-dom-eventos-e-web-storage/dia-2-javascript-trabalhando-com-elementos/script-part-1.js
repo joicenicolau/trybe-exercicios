@@ -19,7 +19,7 @@ elementSectionLeft.className = "left-content";
 elementMain.appendChild(elementSectionLeft); //local de posição - main do passo 2.
 
 const elementSectionRight = document.createElement("section");
-elementSectionRight.className = "left-content";
+elementSectionRight.className = "right-content";
 elementMain.appendChild(elementSectionRight); //local de posição - main do passo 2.
 
 const elementImage = document.createElement("img");
