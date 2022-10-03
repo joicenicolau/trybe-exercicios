@@ -61,7 +61,9 @@
     </style>
   </head>
   <body>
-    <script>// COLOQUE SEU CÓDIGO AQUI</script>
+    <script>
+      // COLOQUE SEU CÓDIGO AQUI
+    </script>
   </body>
 </html>
 
