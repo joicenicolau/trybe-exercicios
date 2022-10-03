@@ -70,7 +70,7 @@
 
 ´´´
 
-O objetivo desses exercícios é colocar em prática o seu conhecimento sobre DOM. Por isso, você deve fazer os exercícios utilizando apenas código JavaScript, o qual deve ser inserido entre as tags ´´´<script>´´´ e ```</script>```.
+O objetivo desses exercícios é colocar em prática o seu conhecimento sobre DOM. Por isso, você deve fazer os exercícios utilizando apenas código JavaScript, o qual deve ser inserido entre as tags ```<script>``` e ```</script>```.
 
 Comece criando algumas coisas:
 
