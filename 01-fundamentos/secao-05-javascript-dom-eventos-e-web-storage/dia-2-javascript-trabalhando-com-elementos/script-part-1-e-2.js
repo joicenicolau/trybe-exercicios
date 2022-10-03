@@ -1,3 +1,6 @@
+//Parte 1
+
+
 const elementH1 = document.createElement('h1'); //criando uma váriavel para armazenar minha criação do elemento h1.
 elementH1.innerText = "Exercício - JavaScript DOM"; //criando o texto do meu elemento h1
 document.body.appendChild(elementH1) //posicionando e adicionando meu elemento h1 e meu texto. OBS: aqui sem aspas dentro dos parenteses. 
@@ -38,12 +41,34 @@ const textNumbers = ['Um', 'Dois', 'Três', 'Quatro', 'Cinco', 'Seis',
         elementListUl.appendChild(elementLi); //adiciona a li na posição da ul. 
       }
 
+
 for (let index = 1; index <= 3; index += 1) { //laço for para percorrer 3 tags h3;
- const elementH3 = document.createElement('h3'); //variável armazenando criação do conteúdo de h3;
- elementH3.innerHTML = 'Show ' + index; //adicionabo texto + index do for, pois quero o texto para as três h3 que meu laço for vai percorrer;
- elementMain.appendChild(elementH3); //adiciona o elemento criado na variável a posicão do passo 2.
+  const elementH3 = document.createElement('h3'); //variável armazenando criação do conteúdo de h3;  
+  elementH3.innerHTML = 'Show ' + index; //adicionabo texto + index do for, pois quero o texto para as três h3 que meu laço for vai percorrer;
+  elementMain.appendChild(elementH3); //adiciona o elemento criado na variável a posicão do passo 2.
 }
 
 
+//Parte 2
 
 
+const title = document.querySelector('h1'); //Adicionando class title a tag h1;
+title.className = 'title';
+
+const elementsH3 = document.getElementsByTagName('h3'); 
+  for (let index = 0; index < 3; index += 1) {
+    elementsH3[index].className = 'description';
+  }
+
+const sectionLeft = document.getElementsByClassName('left-content')[0];
+elementMain.removeChild(sectionLeft);
+
+const sectionRight = document.getElementsByClassName('right-content')[0];
+sectionRight.style.marginRigth = 'auto'; 
+
+const sectionCenter = document.getElementsByClassName('center-content')[0];
+sectionCenter.parentNode.style.backgroundColor = 'green';
+
+const ul = document.getElementsByTagName('ul')[0];
+  ul.lastChild.remove();
+  ul.lastChild.remove();
