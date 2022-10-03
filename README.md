@@ -38,7 +38,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 ##### Seção 5: JavaScript: DOM, Eventos e Web Storage
 
 - [X] Dia 1: _JavaScript - DOM e seletores_
-- [ ] Dia 2: _JavaScript - Trabalhando com elementos_
+- [X] Dia 2: _JavaScript - Trabalhando com elementos_
 - [ ] Dia 3: _JavaScript - Eventos_
 - [ ] Dia 4: _JavaScript - Web Storage_
 - [ ] Dia 5: _Fundamentos - JavaScript - Projetos_ 
