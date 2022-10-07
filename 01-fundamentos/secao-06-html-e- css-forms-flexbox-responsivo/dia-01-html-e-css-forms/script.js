@@ -12,11 +12,11 @@ getSubmitBtn.addEventListener('click', preventButtonSubmit);
 function buttonClear() {
     for (let index = 0; index < getInput.length; index += 1) {  // percorre todos os inputs
       const userInput = getInput[index];
-      userInput.value = ''; 
-      userInput.checked = false;
+      userInput.value = ''; // se meu input estiver retornando o valor de uma string vazia
+      userInput.checked = false; // meu pre selecionado retorna false.
     }
     getTextArea.value = ''; // só tenho um textarea, sem necessidade de outro for
 }
 
-getClearBtn.addEventListener('click', buttonClear);
+getClearBtn.addEventListener('click', buttonClear); // evento do botão limpar
 
