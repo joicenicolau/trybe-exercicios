@@ -1,9 +1,10 @@
-function handleSubmit(event) {
-    const getSubmitBtn = document.querySelector('#submit-btn');
+const getSubmitBtn = document.querySelector('#submit-btn');
+const getClearBtn = document.querySelector('#clear-btn');
+
+function preventButtonSubmitClear(event) {
     event.preventDefault();
-    getSubmitBtn.addEventListener('click', handleSubmit);
+}
 
-    const getClearBtn = document.querySelector('#clear-btn');
-    getClearBtn.addEventListener('click', clearFields);
-};
-
+getSubmitBtn.addEventListener('click', preventButtonSubmitClear);
+getClearBtn.addEventListener('click', preventButtonSubmitClear);
+console.log();
