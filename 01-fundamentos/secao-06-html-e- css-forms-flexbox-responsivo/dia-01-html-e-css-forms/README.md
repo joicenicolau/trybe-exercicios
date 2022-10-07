@@ -1,4 +1,4 @@
-# Exercícios - Seção 5 - Dia 1
+# Exercícios - Seção 6 - Dia 1
 
 ## Parte 1
 
