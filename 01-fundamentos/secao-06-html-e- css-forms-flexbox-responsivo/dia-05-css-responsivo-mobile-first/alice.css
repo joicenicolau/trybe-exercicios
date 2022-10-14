@@ -1,0 +1,62 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+  @media screen and (max-width: 768px) {
+    body {
+        background-color: rgb(175, 175, 252);
+        margin-left: 5%;
+        margin-right: 5%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    h1 {
+       text-align: center; 
+    }
+
+    nav:hover {
+        background-color: rgb(251, 248, 251);
+    }
+
+
+    li {
+        list-style: none;
+    }
+
+    h2 {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+  }
+
+  @media screen and (min-width: 769px) and (max-width: 1200px) {
+    body {
+        background-color: rgb(204, 104, 54);
+    }
+
+    .container {
+        flex-wrap: wrap;
+    }
+    
+    p {
+        text-align: center;
+    }
+
+    h1 {
+        text-align: center;
+    }
+  }
+
+  @media screen and (min-width: 1201px) {
+    body {
+        background-color: rgb(90, 144, 144);
+        color: aliceblue;
+    }
+
+    .container {
+        flex-wrap: nowrap;
+    }
+  } 
