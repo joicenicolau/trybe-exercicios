@@ -12,8 +12,12 @@
     <!-- Botão com texto click aqui -->
     <button id="btn">click aqui!</button>
 
-    <script src="script-parte-2.js">
-      let clickCount
+    <script>
+    let clickCount = 0;
+    const getText = document.getElementById('text');
+    const getBtn = document.getElementById('btn');
+
+    getBtn.addEventListener('click', () => getText.innerHTML = clickCount += 1);
     </script>
 </body>
 </html>
