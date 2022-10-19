@@ -5,7 +5,7 @@
 const factorial = (num) => {
   let result = 1;
       
-   for (let index = num; index > 1; index -= 1) {
+   for (let index = num; index > 0; index -= 1) {
     result *= index;
    }
    return result;
@@ -37,5 +37,7 @@ console.log(sizeWord('Ela escondia com palavras o que eu publicava com silêncio
 
 // Exercício 3
 // No HTML
+
+// Exercício 4
 
 
