@@ -24,14 +24,14 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] Dia 1: _HTML & CSS - Estruturas de página_
 - [X] Dia 2: _HTML & CSS - Primeiros passos em CSS_
 - [X] Dia 3: _HTML & CSS - Seletores e posicionamento_
-- [ ] Dia 4: _HTML Semântico_
+- [X] Dia 4: _HTML Semântico_
 - [X] Dia 5: _Projeto - Lessons Learned_ 
 
 ##### Seção 4: Introdução à JavaScript e Lógica de Programação
 
-- [ ] Dia 1: _JavaScript - Primeiros passos_
-- [ ] Dia 2: _JavaScript - Array e loop For_
-- [ ] Dia 3: _JavaScript - Lógica de Programação e Algoritmos_
+- [X] Dia 1: _JavaScript - Primeiros passos_
+- [X] Dia 2: _JavaScript - Array e loop For_
+- [X] Dia 3: _JavaScript - Lógica de Programação e Algoritmos_
 - [X] Dia 4: _JavaScript - Objeto e funções_
 - [X] Dia 5: _Projeto - Playgroun Functions_
 
@@ -39,30 +39,29 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 - [X] Dia 1: _JavaScript - DOM e seletores_
 - [X] Dia 2: _JavaScript - Trabalhando com elementos_
-- [ ] Dia 3: _JavaScript - Eventos_
-- [ ] Dia 4: _JavaScript - Web Storage_
-- [ ] Dia 5: _Fundamentos - JavaScript - Projetos_ 
-- [ ] Dia 5: _Projeto - Arte com Pixels_
-- [ ] Dia 6: _Projetos Bônus_
+- [X] Dia 3: _JavaScript - Eventos_
+- [X] Dia 4: _JavaScript - Web Storage_
+- [X] Dia 5: _Fundamentos - JavaScript - Projetos_ 
+- [X] Dia 5: _Projeto - Arte com Pixels_
+- [X] Dia 6: _Projetos Bônus_
 
-##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
+##### Seção 6: HTML e CSS: Forms, Flexbox e Responsivo
  
-- [ ] Dia 1: _HTML & CSS - Forms_
-- [ ] Dia 2: _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] Dia 3: _Introdução - CSS Flexbox_
-- [ ] Dia 3: _CSS Flexbox - Parte 1_
-- [ ] Dia 4: _CSS Flexbox - Parte 2_
-- [ ] Dia 5: _CSS Responsivo - Mobile First_
-- [ ] Dia 6: _Projeto - Trubewarts_
+- [X] Dia 1: _HTML & CSS - Forms_
+- [X] Dia 2: _Bibliotecas JavaScript e Frameworks CSS_
+- [X] Dia 3: _CSS Flexbox - Parte 1_
+- [X] Dia 4: _CSS Flexbox - Parte 2_
+- [X] Dia 5: _CSS Responsivo - Mobile First_
+- [X] Dia 6: _Projeto - Trybewarts_
 
-##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
+##### Seção 7: Introdução à JavaScript ES6 e Testes Unitários
 
-- [ ] Dia 1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] Dia 2: _JavaScript ES6 - Fluxo de exceção e Objetos_
+- [X] Dia 1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [X] Dia 2: _JavaScript ES6 - Fluxo de exceção e Objetos_
 - [ ] Dia 3: _Primeiros passos em Jest_
 - [ ] Dia 4: _Projeto - JavaScript Testes Unitários_
  
-##### Bloco 8: Higher Order Functions do JavaScript ES6
+##### Seção 8: Higher Order Functions do JavaScript ES6
 
 - [ ] Dia 1: _JavaScript ES6 - Introdução a Higher Order Functions_
 - [ ] Dia 2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_ 
