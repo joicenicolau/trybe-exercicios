@@ -2,9 +2,9 @@
 
 ## Parte 1
 
-index.html
+```index.html```
 
-´´´
+```
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -20,11 +20,11 @@ index.html
   <div class="caixa width-and-height padding margin border" style="background: #3898EC">D</div>
 </body>
 </html>
-´´´
+```
 
-style.css
+```style.css```
 
-´´´
+```
 .caixa {
   color: white;
   display: inline-block;
@@ -52,14 +52,14 @@ style.css
 .border {
   
 }
-´´´
+```
 
 
 ## Parte 2
 
-index2.html
+```index2.html```
 
-´´´
+```
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
@@ -78,11 +78,11 @@ index2.html
     <img src="https://bit.ly/3tmxgED" alt="baloon" class="baloon" />
   </body>
 </html>
-´´´
+```
 
-style2.css
+```style2.css```
 
-´´´
+```
 .super-mario {
   width: 200px;
 }
@@ -102,22 +102,22 @@ style2.css
 .bowser {
   width: 200px;
 }
-´´´
+```
 
-Personagens pertencentes à Nintendo©
+Personagens pertencentes à ```Nintendo©```.
 
 1. Posicione o Mário acima do Goomba.
 
-2. Posicione a tag p para que fique dentro do balão de fala.
+2. Posicione a ```tag p``` para que fique dentro do balão de fala.
 
 3. Posicione o balão para que se torne uma fala de Browser.
 
 
 ## Parte 3
 
-index3.html
+```index3.html```
 
-´´´
+```
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
@@ -131,27 +131,27 @@ index3.html
     <p>Principais motivos para eu gostar deles</p>
   </body>
 </html>
-´´´
+```
 
-1. Adicione uma lista ordenada dos 3 melhores sites que você conhece.
+1. Adicione uma ```lista ordenada``` dos 3 melhores sites que você conhece.
 
-2. Crie um arquivo no mesmo diretório e nomeie-o de ‘style.css’.
+2. Crie um arquivo no mesmo diretório e nomeie-o de ```‘style.css’```.
 
-3. Nesse arquivo .css, adicione os estilos para que:
+3. Nesse arquivo ```.css```, adicione os estilos para que:
 
-  a. O texto das tags ‘h1’ e ‘p’ estejam centralizados.
+  a. O texto das ```tags ‘h1’ e ‘p’``` estejam centralizados.
   b. A cor de fundo da sua lista mude quando o cursor estiver sobre o item.
   c. A fonte do item mude quando ele for clicado.
-  d. Adicione uma lista não ordenada com, pelo menos, 3 características que você gosta.
+  d. Adicione uma ```lista não ordenada``` com, pelo menos, 3 características que você gosta.
 
-4. No ‘style.css’, adicione a propriedade ‘list-style: none’ para ambas as listas.
+4. No ```‘style.css’```, adicione a propriedade ```‘list-style: none’``` para ambas as listas.
 
 
 ## Parte 4
 
-index4.html
+```index4.html```
 
-´´´
+```
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -179,24 +179,24 @@ index4.html
   </div>
 </body>
 </html>
-´´´
+```
 
-1. Estilize as divs para que, ao passar o cursor por cima das mesmas, elas ganhem uma borda.
+1. Estilize as ```divs``` para que, ao passar o cursor por cima das mesmas, elas ganhem uma borda.
 
-2. Faça cada div ter uma cor própria.
+2. Faça cada ```div``` ter uma cor própria.
 
-3. Estilize cada uma das tags h3.
+3. Estilize cada uma das ```tags h3```.
 
-4. Faça a terceira div ser maior que as demais.
+4. Faça a terceira ```div``` ser maior que as demais.
 
-5. Deixe as tags ímpares h3 com o texto em itálico.
+5. Deixe as ```tags ímpares h3``` com o texto em ```itálico```.
 
 
 ## Parte 5
 
-index5.html
+```index5.html```
 
-´´´
+```
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
@@ -243,14 +243,14 @@ index5.html
     </ul>
   </body>
 </html>
-´´´
+```
 
-Crie o arquivo style.css e resolva os seguintes exercícios:
+Crie o arquivo ```style.css``` e resolva os seguintes exercícios:
 
-1. Faça com que todos os itens de Listas Ordenadas tenham uma cor de fundo amarela. Se a numeração do item for PAR, faça a cor de fonte ser verde. Se o número for considerado ÍMPAR, utilize a propriedade text-transform para deixar o texto maiúsculo. (Dica: combinar classes pode ser útil aqui).
+1. Faça com que todos os itens de ```Listas Ordenadas``` tenham uma ```cor de fundo``` amarela. Se a numeração do item for PAR, faça a cor de fonte ser verde. Se o número for considerado ÍMPAR, utilize a propriedade ```text-transform``` para deixar o texto maiúsculo. (Dica: combinar classes pode ser útil aqui).
 
-2. Faça todas as tags Header (h1, h2…) possuírem cor de fonte vermelha e, se alguma delas estiver em itálico, aumente seu tamanho para 40px e acrescente uma borda de 1px preta e sólida.
+2. Faça todas as ```tags Header (h1, h2…)``` possuírem cor de fonte vermelha e, se alguma delas estiver em itálico, aumente seu tamanho para 40px e acrescente uma borda de 1px preta e sólida.
 
-3. Faça todas as li’s terem 20px de tamanho de fonte e, para todo texto em itálico dentro de alguma li, utilize a propriedade font-weight para deixá-lo negrito.
+3. Faça todas as ```li’s``` terem 20px de tamanho de fonte e, para todo texto em itálico dentro de alguma li, utilize a propriedade font-weight para deixá-lo negrito.
 
 4. Na listagem de linguagens de programação, faça com que as 3 primeiras da lista possuam cor de fonte azul e, se alguma possuir “java*” no texto, utilize uma cor de fundo rosa.
