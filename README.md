@@ -138,7 +138,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [ ] Dia 3: _Transformando ideias em um modelo de banco de dados_
 - [ ] Dia 4: _Aula ao vivo + Projeto - One For All_
 
-#### Seção 4: Introdução ao desenvolvimento Web com Node.js
+##### Seção 4: Introdução ao desenvolvimento Web com Node.js
 - [ ] Dia 1: _Node.js: Runtime Assíncrono_
 - [ ] Dia 2: _Node.js: API REST com Express_ 
 - [ ] Dia 3: _Node.js: Testes de Integração_
