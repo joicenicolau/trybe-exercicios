@@ -63,7 +63,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [ ] Dia 6: _Projeto - Zoo functions_
  
  
-## Desenvolvimento Front-end 
+## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Seção 1: JavaScript e Testes Assíncronos
 - [ ] Dia 1: _JavaScript Assíncrono e Callbacks_
@@ -117,7 +117,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [ ] Dia 1: _Projeto - App de Receitas_
 
 
-## Desenvolvimento Back-end
+## Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ##### Seção 1: Docker: Utilizando Containers
 - [ ] Dia 1: _Utilizando Containers - Docker_
