@@ -1,6 +1,3 @@
-// Exercícios - agora, a prática
-// Organizando uma biblioteca
-
 const books = [
     {
       id: 1,
@@ -63,16 +60,16 @@ const books = [
       releaseYear: 1928,
     },
 ];
+  
+// Adicione o código do exercício aqui:
+// Faça uma função que retorne true, caso nenhum author tenha nascido no mesmo ano, e false, caso contrário.
+// const expectedResult = false;
 
-// Retorne o nome do livro de menor nome.
-function smallerName() {
-  let nameBook;
-  books.forEach((book) => { 
-      if(!nameBook || book.name.length < nameBook.length) {
-        nameBook = book.name;  
-      }
-  });
-  // Variável nameBook que receberá o valor do menor nome;
-  return nameBook;
+function authorUnique() {
+    return books.every((book) =>
+      !books.some((bookSome) =>
+        (bookSome.author.birthYear === book.author.birthYear)
+        && (bookSome.author.name !== book.author.name)));
 };
-// console.log(smallerName());
+console.log(authorUnique());
+  
