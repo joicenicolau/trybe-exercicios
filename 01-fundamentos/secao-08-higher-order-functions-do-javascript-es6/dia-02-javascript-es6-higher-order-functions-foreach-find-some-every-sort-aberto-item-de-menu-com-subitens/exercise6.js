@@ -1,6 +1,3 @@
-// Exercícios - agora, a prática
-// Organizando uma biblioteca
-
 const books = [
     {
       id: 1,
@@ -62,17 +59,15 @@ const books = [
       },
       releaseYear: 1928,
     },
-];
+  ];
+  
+// Adicione o código do exercício aqui:
+// Faça uma função que retorne true, se algum livro foi lançado na década de 80, e false, caso contrário.
+// const expectedResult = true;
 
-// Retorne o nome do livro de menor nome.
-function smallerName() {
-  let nameBook;
-  books.forEach((book) => { 
-      if(!nameBook || book.name.length < nameBook.length) {
-        nameBook = book.name;  
-      }
-  });
-  // Variável nameBook que receberá o valor do menor nome;
-  return nameBook;
+function someBookWasReleaseOnThe80s() {
+    return books.some((book) => (
+        book.releaseYear >= 1980 && book.releaseYear <= 1989
+    ));
 };
-// console.log(smallerName());
+// console.log(someBookWasReleaseOnThe80s());
