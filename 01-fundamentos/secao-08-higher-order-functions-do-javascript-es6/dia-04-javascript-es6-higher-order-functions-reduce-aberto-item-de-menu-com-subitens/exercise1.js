@@ -9,9 +9,7 @@ const arrays = [
 ];
   
 function flatten() {
-    return arrays.reduce((acc, crr) => {
-     return [acc + ' ' + crr];
-    });
+    return arrays.reduce((acc, crr) => [acc + ' ' + crr]);
 }
 
 // console.log(flatten());
