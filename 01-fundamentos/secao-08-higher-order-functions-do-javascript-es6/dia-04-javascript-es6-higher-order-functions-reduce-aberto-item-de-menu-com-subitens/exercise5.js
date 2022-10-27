@@ -9,5 +9,13 @@ const names = [
 // const expectedResult = 20;
   
 function containsA() {
-    // escreva seu código aqui
+    return names.reduce((acc, curr) => {
+    const lowerCase= (curr.match(/a/g) || []).length 
+    const upperCase = (curr.match(/A/g) || []).length
+        return acc += lowerCase + upperCase
+    }, 0)
 }
+
+console.log(containsA());
+
+// pesquisa: https://bobbyhadz.com/blog/javascript-count-regex-matches
