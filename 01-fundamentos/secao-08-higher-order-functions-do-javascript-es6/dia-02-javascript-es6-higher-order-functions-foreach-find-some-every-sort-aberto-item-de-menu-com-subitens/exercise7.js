@@ -65,11 +65,14 @@ const books = [
 // Faça uma função que retorne true, caso nenhum author tenha nascido no mesmo ano, e false, caso contrário.
 // const expectedResult = false;
 
-function authorUnique() {
-    return books.every((book) =>
-      !books.some((bookSome) =>
-        (bookSome.author.birthYear === book.author.birthYear)
-        && (bookSome.author.name !== book.author.name)));
-};
-console.log(authorUnique());
+const authorUnique = books.every((bookAtual) => {
+  let repeticoes = 0;
+  books.forEach((bookPComparar) => {
+    if (bookAtual.author.birthYear === bookPComparar.author.birthYear) {
+      repeticoes += 1;
+    }});
+  repeticoes === 1 ? true : false
+});
+
+console.log(authorUnique);
   
