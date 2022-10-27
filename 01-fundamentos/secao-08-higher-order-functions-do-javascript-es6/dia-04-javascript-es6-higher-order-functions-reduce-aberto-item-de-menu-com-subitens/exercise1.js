@@ -9,5 +9,9 @@ const arrays = [
 ];
   
 function flatten() {
-    // escreva seu código aqui
+    return arrays.reduce((acc, crr) => {
+     return [acc + ' ' + crr];
+    });
 }
+
+// console.log(flatten());
