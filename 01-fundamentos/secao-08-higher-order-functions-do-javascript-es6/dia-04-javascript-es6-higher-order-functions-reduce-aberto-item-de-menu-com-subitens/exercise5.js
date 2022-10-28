@@ -7,14 +7,12 @@ const names = [
 ];
   
 // const expectedResult = 20;
-  
-function containsA() {
-    return names.reduce((acc, curr) => {
-    const lowerCase= (curr.match(/a/g) || []).length 
-    const upperCase = (curr.match(/A/g) || []).length
-        return acc += lowerCase + upperCase
-    }, 0)
-}
+const regexA = /a/i;
+const contandoA = names.reduce((acc, palavra) => {
+    let palavraA = palavra.split('').filter((letra) => letra.match(regexA)).length;
+
+    return acc + palavraA;
+}, 0);
 
 console.log(containsA());
 
