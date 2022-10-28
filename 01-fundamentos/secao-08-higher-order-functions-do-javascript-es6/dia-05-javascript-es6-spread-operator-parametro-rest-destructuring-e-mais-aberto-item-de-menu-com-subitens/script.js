@@ -47,15 +47,6 @@ const {name, age, nationality, profession, squad, squadInitials} = userJoab;
 //----------------------------- ** ------------------------------------
 // Para Fixar - Array Destructurng
 // Produza o mesmo resultado do código, porém utilizando o array destructuring para recolher a função e a saudação.
-// ------ Ex1
-const saudacoes = ['Olá', (saudacao) => console.log(saudacao)];
-// saudacoes[1](saudacoes[0]); // Olá
-
-// Produza o mesmo resultado acima, porém utilizando array destructuring
-
-const [saudacao, 'Olá'] = saudacoes;
-console.log('Olá'(saudacao)); 
-
 // ------ Ex2
 // A seguir, temos alguns valores que estão descritos em variáveis incoerentes. Através da desestruturação de arrays, corrija os valores das variáveis.
 let comida = 'gato';
