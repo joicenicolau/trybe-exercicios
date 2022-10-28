@@ -31,3 +31,9 @@ const people = [
 ];
   
 // escreva filterPeople abaixo
+const filterPeople = () => people
+.filter(( { nationality, bornIn }) => {
+    return nationality === 'Australian' && bornIn > 1900 & bornIn <= 2000;
+})
+
+console.log(filterPeople())
