@@ -62,10 +62,10 @@ let comida = 'gato';
 let animal = 'água';
 let bebida = 'arroz';
 
-console.log(comida, animal, bebida); // arroz gato água
+// console.log(comida, animal, bebida); // arroz gato água
 // Utilizando array destructuring, faça com que os valores apareçam nas variáveis correspondentes ao seu verdadeiro tipo
 [comida, animal, bebida] = [bebida, comida, animal]; // Criando o array e o desestruturando
-console.log(comida, animal, bebida); 
+// console.log(comida, animal, bebida); 
 
 // ------ Ex3
 // O array abaixo possui alguns números que não condizem com o conteúdo que ele deveria possuir. Através de array destructuring, faça com que existam apenas números pares na variável numerosPares.
