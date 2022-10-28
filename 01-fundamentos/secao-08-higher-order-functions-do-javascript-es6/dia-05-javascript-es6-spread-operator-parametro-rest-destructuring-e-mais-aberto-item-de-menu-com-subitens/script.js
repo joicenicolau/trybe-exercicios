@@ -53,8 +53,8 @@ const saudacoes = ['Olá', (saudacao) => console.log(saudacao)];
 
 // Produza o mesmo resultado acima, porém utilizando array destructuring
 
-const [saudacao, realizaSaudacao] = saudacoes;
-console.log(realizaSaudacao(saudacao)); 
+const [saudacao, 'Olá'] = saudacoes;
+console.log('Olá'(saudacao)); 
 
 // ------ Ex2
 // A seguir, temos alguns valores que estão descritos em variáveis incoerentes. Através da desestruturação de arrays, corrija os valores das variáveis.
