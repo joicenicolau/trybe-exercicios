@@ -7,12 +7,12 @@ const names = [
 ];
   
 // const expectedResult = 20;
-  
+const regexA = /a/i;  
 function containsA() {
     return names.reduce((acc, curr) => {
-    const lowerCase= (curr.match(/a/g) || []).length 
-    const upperCase = (curr.match(/A/g) || []).length
-        return acc += lowerCase + upperCase
+    const lowerCase = (curr.match(regexA)).length 
+    // const upperCase = (curr.match(/A/g) || []).length
+        return acc + lowerCase; 
     }, 0)
 }
 
