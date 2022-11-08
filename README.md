@@ -58,18 +58,20 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] Dia 1: _JavaScript ES6 - Introdução a Higher Order Functions_
 - [X] Dia 2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_ 
 - [X] Dia 3: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] Dia 4: _JavaScript ES6 - Higher Order Functions - reduce_ 
-- [ ] Dia 5: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
-- [ ] Dia 6: _Projeto - Zoo functions_
+- [X] Dia 4: _JavaScript ES6 - Higher Order Functions - reduce_ 
+- [X] Dia 4: _JavaScript ES6 - Higher Order Functions - reduce_ 
+- [X] Dia 5: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
+- [X] Dia 6: _Projeto - Zoo functions_
  
  
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Seção 1: JavaScript e Testes Assíncronos
-- [ ] Dia 1: _JavaScript Assíncrono e Callbacks_
-- [ ] Dia 2: _JavaScript Assíncrono - Fetch API e async/await_
-- [ ] Dia 3: _Jest - Testes Assíncronos_
-- [ ] Dia 4: _Projeto - Carrinho de Compras_
+##### Seção 1: Introdução ao Front-end e JavaScript assíncronos
+- [X] Dia 1: _Ambiente de Desenvolvimento_
+- [ ] Dia 2: _JavaScript Assíncrono - Promises e fetch_
+- [ ] Dia 3: _Prática - Casa de Câmbio_
+- [ ] Dia 4: _Async, await, e testes assíncronos_
+- [ ] Dia 5: _Projeto - Carrinho de Compras_
 
 ##### Seção 2: Introdução ao React
 - [ ] Dia 1: _'Hello, world!' no React!_
