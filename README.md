@@ -59,7 +59,6 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] Dia 2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_ 
 - [X] Dia 3: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [X] Dia 4: _JavaScript ES6 - Higher Order Functions - reduce_ 
-- [X] Dia 4: _JavaScript ES6 - Higher Order Functions - reduce_ 
 - [X] Dia 5: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
 - [X] Dia 6: _Projeto - Zoo functions_
  
