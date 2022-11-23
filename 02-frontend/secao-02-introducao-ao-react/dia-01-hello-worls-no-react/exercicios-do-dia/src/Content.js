@@ -28,7 +28,7 @@ class Content extends React.Component {
     return (
       <ul>
         { conteudos.map(({ nome, bloco, status }) => (
-          <li key={ nome }>
+          <li key={ bloco }>
             {`Eu ${status} o conteúdo ${nome} no bloco ${bloco}`}
           </li>
         ))}
