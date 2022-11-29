@@ -8,29 +8,39 @@ class App extends React.Component {
       this.clickOne = this.clickOne.bind(this)
       this.clickTwo = this.clickTwo.bind(this)
       this.clickThree = this.clickThree.bind(this)
+
+      this.state = {
+        one: 0,
+        two: 0,
+        three: 0,
+      };
     }
 
     clickOne () {
-      console.log(this);
-      console.log('Click 1');
+      this.setState((prev) => ({
+        one: prev.one + 1,
+      }));
     }
     
     clickTwo () {
-      console.log(this);
-      console.log('Click 2');
+      this.setState((prev) => ({
+        two: prev.two + 1,
+      }));
     }
     
     clickThree () {
-      console.log(this);
-      console.log('Click 3');
+      this.setState((prev) => ({
+        three: prev.three + 1,
+      }));
     }
 
     render() {
+      const { one, two, three } = this.state;
     return (
       <div>
-        <button onClick={ this.clickOne }>Botão 1</button>
-        <button onClick={ this.clickTwo }>Botão 2</button>
-        <button onClick={ this.clickThree }>Botão 3</button>
+        <button onClick={ this.clickOne }>{`Cliques botão 1: ${one}`}</button>
+        <button onClick={ this.clickTwo }>{`Cliques botão 2: ${two}`}</button>
+        <button onClick={ this.clickThree }>{`Cliques botão 3: ${three}`}</button>
       </div>
     );
   }
