@@ -19,13 +19,17 @@ class App extends React.Component {
     clickOne () {
       this.setState((prev) => ({
         one: prev.one + 1,
-      }));
+      }), () => {
+        console.log(`Botão 1 ${this.getButtonColor(this.state.one)}`);
+      });
     }
     
     clickTwo () {
       this.setState((prev) => ({
         two: prev.two + 1,
-      }));
+      }), () => {
+        console.log(`Botão 2 ${this.getButtonColor(this.state.two)}`);
+      });
     }
     
     clickThree () {
@@ -34,13 +38,32 @@ class App extends React.Component {
       }));
     }
 
+    getButtonColor(num) {
+      return num % 2 === 0 ? 'green' : 'white';
+    }
+
     render() {
       const { one, two, three } = this.state;
     return (
       <div>
-        <button onClick={ this.clickOne }>{`Cliques botão 1: ${one}`}</button>
-        <button onClick={ this.clickTwo }>{`Cliques botão 2: ${two}`}</button>
-        <button onClick={ this.clickThree }>{`Cliques botão 3: ${three}`}</button>
+        <button 
+          onClick={ this.clickOne }
+          style={ { backgroundColor: this.getButtonColor(one) } }
+        > 
+          {`Cliques botão 1: ${one}`}
+        </button>
+        <button 
+          onClick={ this.clickTwo }
+          style={ { backgroundColor: this.getButtonColor(two) } }
+        >
+          {`Cliques botão 2: ${two}`}
+        </button>
+        <button 
+          onClick={ this.clickThree }
+          style={ { backgroundColor: this.getButtonColor(three) } }
+        >
+          {`Cliques botão 3: ${three}`}
+          </button>
       </div>
     );
   }
