@@ -67,39 +67,39 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ##### Seção 1: Introdução ao Front-end e JavaScript assíncronos
 - [X] Dia 1: _Ambiente de Desenvolvimento_
-- [ ] Dia 2: _JavaScript Assíncrono - Promises e fetch_
-- [ ] Dia 3: _Prática - Casa de Câmbio_
-- [ ] Dia 4: _Async, await, e testes assíncronos_
-- [ ] Dia 5: _Projeto - Carrinho de Compras_
+- [X] Dia 2: _JavaScript Assíncrono - Promises e fetch_
+- [X] Dia 3: _Prática - Casa de Câmbio_
+- [X] Dia 4: _Async, await, e testes assíncronos_
+- [X] Dia 5: _Projeto - Carrinho de Compras_
 
 ##### Seção 2: Introdução ao React
-- [ ] Dia 1: _'Hello, world!' no React!_
-- [ ] Dia 2: _Componentes React_
-- [ ] Dia 3: _Projeto - Sistema Solar_  
+- [X] Dia 1: _'Hello, world!' no React!_
+- [X] Dia 2: _Componentes React_
+- [X] Dia 3: _Projeto - Sistema Solar_  
  
 ##### Seção 3: Componentes com Estado, Eventos e Formulários com React
-- [ ] Dia 1: _Componentes com estado e eventos_
-- [ ] Dia 2: _Formulários no React_
-- [ ] Dia 3: _Projeto - Tryunfo_
+- [X] Dia 1: _Componentes com estado e eventos_
+- [X] Dia 2: _Formulários no React_
+- [X] Dia 3: _Projeto - Tryunfo_
 
 ##### Seção 4: Ciclo de Vida de Componentes e React Router
-- [ ] Dia 1: _Ciclo de vida de componentes_ 
-- [ ] Dia 2: _React Router_ 
-- [ ] Dia 3: _Projeto - TrybeTunes_
+- [X] Dia 1: _Ciclo de vida de componentes_ 
+- [X] Dia 2: _React Router_ 
+- [X] Dia 3: _Projeto - TrybeTunes_
  
 ##### Seção 5: Metodologias Ágeis 
-- [ ] Dia 1: _Metodologias Ágeis_ 
-- [ ] Dia 2: _Projeto - Frontend Online Store_ 
+- [X] Dia 1: _Metodologias Ágeis_ 
+- [X] Dia 2: _Projeto - Frontend Online Store_ 
 
 ##### Seção 6: Testes automatizados com React Testing Library
-- [ ] Dia 1: _RTL - Primeiros passos_ 
-- [ ] Dia 2: _RTL - Mocks e Inputs_ 
-- [ ] Dia 3: _RTL - Testando React Router_
-- [ ] Dia 4: _Projeto - Testes em React_
+- [X] Dia 1: _RTL - Primeiros passos_ 
+- [X] Dia 2: _RTL - Mocks e Inputs_ 
+- [X] Dia 3: _RTL - Testando React Router_
+- [X] Dia 4: _Projeto - Testes em React_
  
 ##### Seção 7: Gerenciamento de estado com Redux
-- [ ] Dia 1: _Introdução ao Redux - O estado global da aplicação_ 
-- [ ] Dia 2: _Usando o Redux no React_
+- [X] Dia 1: _Introdução ao Redux - O estado global da aplicação_ 
+- [X] Dia 2: _Usando o Redux no React_
 - [ ] Dia 3: _Usando o Reduz no React - Prática_
 - [ ] Dia 4: _Usando o Redux no React - Actions Assíncronas_
 - [ ] Dia 5: _Testes em React-Redux_
