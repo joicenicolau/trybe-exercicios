@@ -1,0 +1,16 @@
+{
+  "name": "dia-1-introducao-ao-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@redux-devtools/extension": "^3.2.5",
+    "redux": "^4.2.0"
+  }
+}
