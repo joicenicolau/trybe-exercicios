@@ -63,7 +63,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] Dia 6: _Projeto - Zoo functions_
  
  
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :heavy_check_mark:
 
 ##### Seção 1: Introdução ao Front-end e JavaScript assíncronos
 - [X] Dia 1: _Ambiente de Desenvolvimento_
@@ -100,28 +100,28 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 ##### Seção 7: Gerenciamento de estado com Redux
 - [X] Dia 1: _Introdução ao Redux - O estado global da aplicação_ 
 - [X] Dia 2: _Usando o Redux no React_
-- [ ] Dia 3: _Usando o Reduz no React - Prática_
-- [ ] Dia 4: _Usando o Redux no React - Actions Assíncronas_
-- [ ] Dia 5: _Testes em React-Redux_
-- [ ] Dia 6: _Projeto - Trybe Wallet_
+- [X] Dia 3: _Usando o Reduz no React - Prática_
+- [X] Dia 4: _Usando o Redux no React - Actions Assíncronas_
+- [X] Dia 5: _Testes em React-Redux_
+- [X] Dia 6: _Projeto - Trybe Wallet_
  
 ##### Seção 8: Projeto Jogo de Trivia
-- [ ] Dia 1: _Projeto - Jogo de Trivia_
+- [X] Dia 1: _Projeto - Jogo de Trivia_
  
 ##### Seção 9: Context API e React Hooks
-- [ ] Dia 1: _Context API do React_ 
-- [ ] Dia 2: _React Hooks - useState e useContext_
-- [ ] Dia 3: _React Hooks - useEffect e Hooks customizados_
-- [ ] Dia 4: _Projeto - StarWars Datatable com Context API e Hooks_
+- [X] Dia 1: _Context API do React_ 
+- [X] Dia 2: _React Hooks - useState e useContext_
+- [X] Dia 3: _React Hooks - useEffect e Hooks customizados_
+- [X] Dia 4: _Projeto - StarWars Datatable com Context API e Hooks_
  
 ##### Seção 10: Projeto App de Receitas
-- [ ] Dia 1: _Projeto - App de Receitas_
+- [X] Dia 1: _Projeto - App de Receitas_
 
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ##### Seção 1: Docker: Utilizando Containers
-- [ ] Dia 1: _Utilizando Containers - Docker_
+- [X] Dia 1: _Utilizando Containers - Docker_
 - [ ] Dia 2: _Manipulando Imagens no Docker_
 - [ ] Dia 3: _Orquestrando Containers com Docker Compose_
 - [ ] Dia 4: _Projeto - Docker Todo-List_
