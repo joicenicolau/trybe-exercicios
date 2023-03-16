@@ -147,3 +147,24 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [ ] Dia 5: _Node.js: Express e Mysql_
 - [ ] Dia 6: _Atividades + Projeto – Talker Manager_
 
+##### Seção 5: Arquiterura de Software: Model, Service e Controller
+- [ ] Dia 1: _Arquitetura de Software: Camada Model_
+- [ ] Dia 2: _Arquitetura de Software: Camada Service_
+- [ ] Dia 3:_Arquitetura de Software: Camada Controller_
+- [ ] Dia 4: _Projeto - Store Manager_
+
+##### Seção 6: Node.js: ORM e Autenticação
+- [ ] Dia 1: _ORM - Interface da aplicação com o banco de dados_
+- [ ] Dia 2: _ORM - Associations 1:1 e 1:N_ 
+- [ ] Dia 3: _ORM - Associations N:N e Transactions_
+- [ ] Dia 4: _JWT - (JSON Web Token)_
+- [ ] Dia 5: _Projeto - API de Blogs_
+
+##### Seção 7: Masterclass: Implantação de Aplicações na Nuvem
+- [ ] Dia 1: _Infraestrutura: Deploy com Railway_
+
+##### Seção 8: Introdução ao TypeScript
+- [ ] Dia 1: _Introdução ao TypeScript_
+- [ ] Dia 2: _Tipagem Estática e Generics_
+- [ ] Dia 3:_Express com TypeScript_
+- [ ] Dia 4: _Projeto - Trybesmith_
