@@ -1,5 +1,4 @@
 Serei capaz de:
-
 </br>
 
 - Compreender o conceito de empacotamento de aplicações;
