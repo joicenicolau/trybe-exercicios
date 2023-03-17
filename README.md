@@ -122,7 +122,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ##### Seção 1: Docker: Utilizando Containers
 - [X] Dia 1: _Utilizando Containers - Docker_
-- [ ] Dia 2: _Manipulando Imagens no Docker_
+- [X] Dia 2: _Manipulando Imagens no Docker_
 - [ ] Dia 3: _Orquestrando Containers com Docker Compose_
 - [ ] Dia 4: _Projeto - Docker Todo-List_
 
@@ -168,3 +168,33 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [ ] Dia 2: _Tipagem Estática e Generics_
 - [ ] Dia 3:_Express com TypeScript_
 - [ ] Dia 4: _Projeto - Trybesmith_
+
+##### Seção 9: Programação Orientada a Objetos (POO) e SOLID
+- [ ] Dia 1: _Introdução à Orientação a Objetos_
+- [ ] Dia 2: _Herança e Composição_ 
+- [ ] Dia 3: _Polimorfismo_
+- [ ] Dia 4: _SOLID - Introdução e princípios S, O e D_
+- [ ] Dia 5: _SOLID - Princípios L e I_
+- [ ] Dia 6: _Projeto – Trybers and Dragons_
+
+##### Seção 10: Projeto - TFC - Trybe Futebol Clube
+- [ ] Dia 1: _Projeto - TFC - Trybe Futebol Clube_
+
+##### Seção 11: Introdução ao MongoDB
+- [ ] Dia 1: _MongoDB - Introdução_
+- [ ] Dia 2: _Filter Operators_ 
+- [ ] Dia 3: _Operadores de consulta_
+- [ ] Dia 4: _Updates Simples_
+- [ ] Dia 5: _Updates Complexos - Arrays_
+- [ ] Dia 6: _Projeto – Commerce_
+
+##### Seção 12: APIs OO e NoSQL
+- [ ] Dia 1: _APIs orientadas a objetos e NoSQL: POO e ODMs_
+- [ ] Dia 2: _APIs orientadas a objetos e NoSQL: Herança e Abstração_ 
+- [ ] Dia 3: _Projeto - Car Shop_
+
+##### Seção 13: Projeto - App de Delivery
+- [ ] Dia 1: _Projeto - App de Delivery_
+
+
+## Ciência da Computação :hourglass_flowing_sand:
